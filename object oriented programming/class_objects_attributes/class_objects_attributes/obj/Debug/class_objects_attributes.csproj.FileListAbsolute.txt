@@ -1,0 +1,7 @@
+C:\Users\grsil\Desktop\Csharp\object oriented programming\class_objects_attributes\class_objects_attributes\bin\Debug\class_objects_attributes.exe.config
+C:\Users\grsil\Desktop\Csharp\object oriented programming\class_objects_attributes\class_objects_attributes\bin\Debug\class_objects_attributes.exe
+C:\Users\grsil\Desktop\Csharp\object oriented programming\class_objects_attributes\class_objects_attributes\bin\Debug\class_objects_attributes.pdb
+C:\Users\grsil\Desktop\Csharp\object oriented programming\class_objects_attributes\class_objects_attributes\obj\Debug\class_objects_attributes.csproj.SuggestedBindingRedirects.cache
+C:\Users\grsil\Desktop\Csharp\object oriented programming\class_objects_attributes\class_objects_attributes\obj\Debug\class_objects_attributes.csproj.CoreCompileInputs.cache
+C:\Users\grsil\Desktop\Csharp\object oriented programming\class_objects_attributes\class_objects_attributes\obj\Debug\class_objects_attributes.exe
+C:\Users\grsil\Desktop\Csharp\object oriented programming\class_objects_attributes\class_objects_attributes\obj\Debug\class_objects_attributes.pdb
