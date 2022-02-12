@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5ABBA0A8-9F7C-4A67-9639-D605B1CF87A4}</ProjectGuid>
+    <ProjectGuid>{8C45B031-4525-49C8-8BDE-9D7A9FF7363A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>class_objects_attributes</RootNamespace>
-    <AssemblyName>class_objects_attributes</AssemblyName>
+    <RootNamespace>class__objects_and_attributes</RootNamespace>
+    <AssemblyName>class, objects and attributes</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
