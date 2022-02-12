@@ -1,0 +1,8 @@
+C:\Users\grsil\Desktop\Csharp\oriented object programming\methods\bin\Debug\methods.exe.config
+C:\Users\grsil\Desktop\Csharp\oriented object programming\methods\bin\Debug\methods.exe
+C:\Users\grsil\Desktop\Csharp\oriented object programming\methods\bin\Debug\methods.pdb
+C:\Users\grsil\Desktop\Csharp\oriented object programming\methods\obj\Debug\methods.csproj.AssemblyReference.cache
+C:\Users\grsil\Desktop\Csharp\oriented object programming\methods\obj\Debug\methods.csproj.SuggestedBindingRedirects.cache
+C:\Users\grsil\Desktop\Csharp\oriented object programming\methods\obj\Debug\methods.csproj.CoreCompileInputs.cache
+C:\Users\grsil\Desktop\Csharp\oriented object programming\methods\obj\Debug\methods.exe
+C:\Users\grsil\Desktop\Csharp\oriented object programming\methods\obj\Debug\methods.pdb

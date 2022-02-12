@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8c45b031-4525-49c8-8bde-9d7a9ff7363a": {
+      "ProjectGuid": "8c45b031-4525-49c8-8bde-9d7a9ff7363a",
+      "DisplayName": "class, objects and attributes",
+      "ColorIndex": 0
+    },
+    "48bea60c-b0e2-4092-81b6-97ac3b22e7b5": {
+      "ProjectGuid": "48bea60c-b0e2-4092-81b6-97ac3b22e7b5",
+      "DisplayName": "methods",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
