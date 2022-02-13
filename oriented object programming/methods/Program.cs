@@ -29,6 +29,28 @@ namespace methods
 
             Console.WriteLine("Press to next");
             Console.ReadKey();
+
+            Console.Clear();
+
+            string fullName = m1.RideName("Guilherme", "Rodrigues");
+            Console.WriteLine(fullName);
+
+            int character = m1.CharCode('a');
+            Console.WriteLine(character);
+
+            char character2 = m1.CharCode2('a');
+            Console.WriteLine(character2);
+
+            double pi = m1.PiValue();
+            Console.WriteLine(pi);
+
+            int value3 = 10;
+            m1.IncreaseValue2(value3);
+            Console.WriteLine("Value: " + value3);
+
+            Console.WriteLine("Press to next");
+            Console.ReadKey();
+               
         }
     }
 }

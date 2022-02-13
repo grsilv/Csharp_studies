@@ -31,5 +31,34 @@ namespace methods
             Console.WriteLine("Final value reference is " + value);
         }
 
+        public string RideName(string firstName, string lastName)
+        {
+            string fullName = firstName + " " + lastName;
+            return fullName;
+        }
+
+        public int CharCode(char character)
+        {
+            return character;
+        }
+
+        public char CharCode2(char character2)
+        {
+            return character2;
+        }
+
+        public double PiValue()
+        {
+            return 3.1415;
+        }
+
+        public int IncreaseValue2(int value)
+        {
+            value += 10;
+            Console.WriteLine("Final value is " + value);
+            return value;
+        }
+
+
     }
 }
